@@ -1,0 +1,27 @@
+<<gitbash>>
+
+ls -al: 폴더 안에 있는 리스트를 보는 명령어( 컴퓨터가 지금 보고있는 파일/폴더 )
+
+cd Desktop: 바탕화면으로 들어가는 코드( cd= change directory )
+
+directory=폴더
+
+mkdir(=make directory): 폴더 만드는 명령어
+ex) mkdir test: test라는 이름의 폴더를 만들어라.
+
+touch README.md : 프로젝트를 설명하는 설명서를 만든다. ( touch=파일을 만드는 코드 )
+
+cd .. : 뒤로가기
+
+rm -rf 폴더명: 폴더명 삭제
+
+git init : 폴더, 데이터를 git의 성질을 갖게 해주는 명령어
+
+git remote add origin https://github.com/zkfk94/web-study.git // 코드 저장소를 git서버와 연동시킬 때 쓴다.
+
+git 키워드 => git에서 제공하는 명령어
+
+git add . => 모든 파일들 업로드 할 준비를 하는 명령어
+
+git commit -m '처음 코드 저장소 사용' => 코드 저장소에 업로드할 파일을 올리는 명령어( '따옴표 사이는 원하는 메시지' )
+
